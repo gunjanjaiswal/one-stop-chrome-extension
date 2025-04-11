@@ -1,1 +1,1 @@
-# one-stop-chrome-extension
+OneStop Chrome Extension
